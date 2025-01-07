@@ -7,7 +7,7 @@ SoutraMoi est la plateforme de référence qui vous met en relation avec des pro
 
 ## Conçu par
 
-Codivoire
+SOUTRAMOI
 
 ## Plateformes
 
@@ -18,7 +18,7 @@ Codivoire
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
-| [<img src="https://avatars3.githubusercontent.com/u/1428556?s=460&v=4" width="100px;"/><br /><sub><b>Roland Edi</b></sub>](https://github.com/lambirou)<br /> |
+Bénédicte Koffi
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
